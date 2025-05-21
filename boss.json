@@ -1,0 +1,10 @@
+{
+  "name": "djom",
+  "version": "0.1.0",
+  "description": "Declarative JSON-Object Mapper for Delphi",
+  "homepage": "https://bitbucket.org/alphatecnologia/djom",
+  "license": "MIT",
+  "dependencies": {
+    "spring4d": "github.com/Spring4D/Spring4D"
+  }
+}

@@ -59,7 +59,7 @@ end;
 ### Opção 1 – Via [Boss](https://github.com/HashLoad/boss)
 
 ```bash
-boss install github.com/seu-usuario/djom
+boss install github.com/thedelphideveloper/djom
 ```
 
 ### Opção 2 – Manual
